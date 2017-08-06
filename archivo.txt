@@ -1,0 +1,8 @@
+Este es un archivo de texto para explicar 
+un poco como ser√a la estructura general de 
+la p√gina web.
+	
+El fundamento de la p√gina es el de saludar al
+usuario y mostrarle lo que se ha podido hacer, 
+pidiendo
+una opini√≥n al respecto.
