@@ -1,10 +1,10 @@
 Este es un archivo de texto para explicar 
-un poco como serÃa la estructura general de 
-la pÃgina web.
+un poco como ser�a la estructura general de 
+la página web.
 	
-El fundamento de la pÃgina es el de saludar al
+El fundamento de la página es el de saludar al
 usuario y mostrarle lo que se ha podido hacer, 
 pidiendo
-una opiniÃ³n al respecto.
+una opini�n al respecto.
 
 Esto fue agregado desde la página oficial de GitHub.
